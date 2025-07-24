@@ -18,14 +18,14 @@ namespace functions
             //perim();
             swap();
         }
-        public static void add()
+        public static void sub1()
         {
             Console.WriteLine("enter the number");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("enter the number");
             int b = int.Parse(Console.ReadLine());
-            int add = a + b;
-            Console.WriteLine(add);
+            int sub1 = a - b;
+            Console.WriteLine(sub1);
         }
         public static void sub()
         {
