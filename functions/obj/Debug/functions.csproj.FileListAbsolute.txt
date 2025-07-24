@@ -1,0 +1,6 @@
+c:\users\ezhil\documents\visual studio 2012\Projects\functions\functions\bin\Debug\functions.exe.config
+c:\users\ezhil\documents\visual studio 2012\Projects\functions\functions\bin\Debug\functions.exe
+c:\users\ezhil\documents\visual studio 2012\Projects\functions\functions\bin\Debug\functions.pdb
+c:\users\ezhil\documents\visual studio 2012\Projects\functions\functions\obj\Debug\functions.csprojResolveAssemblyReference.cache
+c:\users\ezhil\documents\visual studio 2012\Projects\functions\functions\obj\Debug\functions.exe
+c:\users\ezhil\documents\visual studio 2012\Projects\functions\functions\obj\Debug\functions.pdb
